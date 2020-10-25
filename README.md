@@ -6,7 +6,7 @@
 - programming
 - micro controller
 
-My blog : <a href="https://zoviablog.blogspot.com/">Zovia Blog<a><br><br>
+<b>My blog : </b><a href="https://zoviablog.blogspot.com/">Zovia Blog<a><br><br>
 ![Dolphinza github stats](https://bad-apple-github-readme.vercel.app/api?username=dolphinza&show_icons=true&&theme=dracula)
 
 <!--
