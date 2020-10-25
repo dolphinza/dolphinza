@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm dolphinza Al-Clever 👋
+
+😆 Interested with :
+- Linux
+- Networking
+- programming
+- micro controller
+
+My blog : <a href="https://zoviablog.blogspot.com/">Zovia Blog<a><br><br>
+![Dolphinza github stats](https://bad-apple-github-readme.vercel.app/api?username=dolphinza&show_icons=true&&theme=dracula)
 
 <!--
 **dolphinza/dolphinza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
